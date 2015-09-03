@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:00,930 --> 00:00:03,100
 Um diese Gelegenheit zu ergreifen, müssen wir Technologie nutzen,
 
@@ -64,11 +64,11 @@ Ich mag dieses Interview nicht.
 
 17
 00:00:33,040 --> 00:00:34,060
-Wenn Sie nichts zu verbergen haben,
+Wenn Du nichts zu verbergen hast
 
 18
 00:00:34,120 --> 00:00:38,720
-wieso lassen Sie nicht jemanden ihr Schlafzimmer und Bad filmen?
+wieso lässt Du nicht jemanden Dein Schlafzimmer und Bad filmen?
 
 19
 00:00:38,720 --> 00:00:40,500
@@ -76,15 +76,15 @@ Alles könnte im Internet veröffentlicht werden...
 
 20
 00:00:40,620 --> 00:00:41,820
-Wenn Sie nichts zu verbergen haben,
+Wenn Du nichts zu verbergen hast,
 
 21
 00:00:41,880 --> 00:00:44,920
-lassen Sie jemand ihre Facebook und Google Zugangsdaten nutzen,
+lass jemand deine Facebook und Google Zugangsdaten nutzen,
 
 22
 00:00:45,120 --> 00:00:47,500
-veröffentlichen Sie sie, damit jeder in ihrem Zeug wühlen kann.
+veröffentliche sie, damit jeder in deinem Zeug wühlen kann.
 
 23
 00:00:47,560 --> 00:00:49,600
@@ -116,7 +116,7 @@ Weil es auch so ist, dass
 
 30
 00:01:00,600 --> 00:01:02,680
-wenn Sie jemanden danach fragen,
+wenn Du jemanden danach fragst,
 
 31
 00:01:02,680 --> 00:01:04,100
@@ -124,7 +124,7 @@ dieser jemand das möglicherweise nicht gewährt
 
 32
 00:01:04,100 --> 00:01:05,700
-und dann wissen Sie, dass Sie nicht frei sind.
+und dann weißt Du, dass Du nicht frei bist.
 
 33
 00:01:06,290 --> 00:01:08,920
@@ -176,7 +176,7 @@ Nein.
 
 45
 00:01:34,180 --> 00:01:36,320
-Amazon Bestellungen?
+Amazon.com Bestellungen?
 
 46
 00:01:36,420 --> 00:01:37,230
@@ -431,448 +431,462 @@ Bei aller Unschuld noch etwas Verdächtiges finden
 und in allem das Schlechte sehen.
 
 109
+00:04:10,460 --> 00:04:15,140
+Ich fühle mich als wäre ich zu hause
+
+110
+00:04:15,620 --> 00:04:17,480
+für mich allein.
+
+111
 00:04:24,320 --> 00:04:25,930
 Was diese Enthüllungen,
 
-110
+112
 00:04:25,950 --> 00:04:27,240
 diejenigen die wir bis jetzt veröffentlicht haben
 
-111
+113
 00:04:27,280 --> 00:04:29,300
 und diejenigen die wir noch veröffentlichen werden,
 
-112
+114
 00:04:29,300 --> 00:04:31,620
 was sie zeigen ist genau das was Sie gesagt haben.
 
-113
+115
 00:04:31,620 --> 00:04:32,540
 Sie nennen es nicht mehr
 
-114
+116
 00:04:32,570 --> 00:04:34,850
 Totale Informations Erkenntnis,
 
-115
+117
 00:04:34,850 --> 00:04:36,810
 das war vom Begriff her etwas zu ehrlich.
 
-116
+118
 00:04:36,810 --> 00:04:38,490
 Das war vermutlich der Hauptgrund,
 
-117
+119
 00:04:38,520 --> 00:04:39,850
 wieso es so einen Aufstand verursacht hat,
 
-118
+120
 00:04:39,850 --> 00:04:42,940
 weil einfach zu deutlich war
 
-119
+121
 00:04:42,970 --> 00:04:45,220
 was es erreichen sollte.
 
-120
+122
 00:04:45,220 --> 00:04:48,980
 Aber was die NSA tut, nicht nur in den USA, sondern weltweit,
 
-121
+123
 00:04:48,980 --> 00:04:51,340
 ist ein Totales Informations Erkenntnis System zu schaffen.
 
-122
+124
 00:04:52,140 --> 00:04:55,290
 William arbeitete 32 Jahre für die US Regierung.
 
-123
+125
 00:04:55,700 --> 00:04:58,240
 Er war für elektronische Spionage verantwortlich.
 
-124
+126
 00:04:58,850 --> 00:05:02,760
 Vor einem Jahrzehnt, als die Regierung anfing US Bürger auszuspionieren,
 
-125
+127
 00:05:02,760 --> 00:05:04,440
 verließ er den Geheimdienst.
 
-126
+128
 00:05:04,580 --> 00:05:06,270
 Der Kampf gegen Terrorismus
 
-127
+129
 00:05:06,300 --> 00:05:08,830
 schien die Regeln der Kriegsführung über Nacht zu ändern.
 
-128
+130
 00:05:14,040 --> 00:05:18,000
 Es gibt praktisch nichts im Netzwerk wovon sie keine Kopie haben können.
 
-129
+131
 00:05:18,320 --> 00:05:21,210
 Wenn sie anfangen hinter Dir her zu sein, was solls.
 
-130
+132
 00:05:21,580 --> 00:05:22,840
 Sie haben deine Daten schon.
 
-131
+133
 00:05:22,980 --> 00:05:25,100
-Ich kann nicht raus kriegen was sie mit meinem Daten machen,
+Ich kann nicht raus kriegen was sie mit meine Daten machen,
 
-132
+134
 00:05:26,880 --> 00:05:28,490
 aber ich weiß, dass sie sie haben.
 
-133
+135
 00:05:29,340 --> 00:05:34,020
 Also schreibe ich alles was ich über sie zu sagen habe da rein. Ich spreche es da rein,
 
-134
+136
 00:05:34,020 --> 00:05:36,700
 damit sie wissen, wenn sie es sammeln, was ich von ihnen halte.
 
-135
+137
 00:05:37,330 --> 00:05:40,650
 Die Frage ist nicht ob du etwas zu verbergen hast,
 
-136
+138
 00:05:40,660 --> 00:05:43,810
 die Frage ist, ob wir die Regierung kontrollieren
 
-137
+139
 00:05:43,810 --> 00:05:46,040
 oder die Regierung uns kontrolliert.
 
-138
+140
 00:05:46,820 --> 00:05:47,900
 Also was können Leute tun?
 
-139
+141
 00:05:47,900 --> 00:05:49,900
 Zuerst können sie sich selbst als frei erklären
 
+142
 00:05:50,450 --> 00:05:52,300
 und zweitens können sie es erklären
 
-141
+143
 00:05:52,360 --> 00:05:54,840
 indem sie starke Verschlüsselung einsetzen wenn sie Telefone benutzen,
 
-142
+144
 00:05:54,840 --> 00:05:57,890
 indem sie mit Journalisten über die Dinge, die sie erleben, sprechen
 
-143
-00:05:58,200 --> 00:06:04,240
-indem sie tatsächlich Maßnahmen ergreifen um Organisationen Mittel zu streichen, die fundamental die Verfassung verletzen,
+145
+00:05:58,200 --> 00:05:59,776
+indem sie tatsächlich Maßnahmen ergreifen 
 
-144
-00:06:04,240 --> 00:06:07,130 
+146
+00:05:59,780 --> 00:06:04,275
+um Organisationen Mittel zu streichen, die fundamental die Verfassung verletzen,
+
+147
+00:06:04,302 --> 00:06:07,130
 die die G-10 Gesetze neu interpretieren,
 
-145
+148
 00:06:07,130 --> 00:06:09,120
 die von Natur aus kriminell sind.
 
-146
+149
 00:06:09,160 --> 00:06:10,610
 <i>Entschuldigen sie die Unterbrechung, aber wir empfangen</i>
 
-147
+150
 00:06:10,650 --> 00:06:13,290
 <i>ein Signal von jenseits des Raum-Zeit Kontinuums</i>
 
-148
+151
 00:06:13,290 --> 00:06:15,660
 <i>Schnell, schaltet das Juice Channeling Portal ein</i>
 
-149
+152
 00:06:16,380 --> 00:06:19,020
 <i>Wartet... ist das... George Orwell?!</i>
 
-150
+153
 00:06:19,020 --> 00:06:19,920
 <i>Guten Tag</i>
 
-151
+154
 00:06:19,920 --> 00:06:21,690
 <i>Wow... was verschafft uns die Ehre?</i>
 
-152
+155
 00:06:21,690 --> 00:06:22,960
 <i>Ich hab versucht euch Anfänger zu warnen</i>
 
-153
+156
 00:06:23,020 --> 00:06:24,440
 <i>aber ich sehe, dass ihr wirklich Idioten seid</i>
 
-154
+157
 00:06:24,440 --> 00:06:26,860
 <i>oder habt ihr gedacht, dass dies eine Betriebsanleitung ist?!</i>
 
-155
+158
 00:06:26,860 --> 00:06:28,540
-<i>Ja... also was können Sie uns raten?>/i>
+<i>Ja... also was können Sie uns raten?</i>
 
-156
+159
 00:06:28,600 --> 00:06:29,480
 <i>Was sollen wir machen?</i>
 
-157
+160
 00:06:29,480 --> 00:06:30,960
 <i>Ein offenes und universelles Internet</i>
 
-158
+161
 00:06:31,020 --> 00:06:32,420
 <i>ist das wirkungsvollste Werkzeug, das ihr habt</i>
 
-159
+162
 00:06:32,480 --> 00:06:34,480
 <i>um die Problem anzugehen, die die Welt grad hat</i>
 
-160
+163
 00:06:34,490 --> 00:06:36,800
 <i>daher ist der Schutz die entscheidende Aufgabe,</i>
 
-161
+164
 00:06:36,860 --> 00:06:38,580
 <i>die eurer Generation bevorsteht.</i>
 
-162
+165
 00:06:38,620 --> 00:06:39,760
 <i>Ich glaube ich verstehe...</i>
 
-163
+166
 00:06:39,760 --> 00:06:41,980
 <i>Seien Sie still. Sie dürfen das Internet nicht verlieren.</i>
 
-164
+167
 00:06:42,040 --> 00:06:42,850
 <i>Befolgen Sie dieses Mantra:</i>
 
-165
+168
 00:06:42,850 --> 00:06:44,960
 <i>"Wer das Internet kontrolliert, kontrolliert die Daten</i>
 
-166
+169
 00:06:45,160 --> 00:06:47,450
 <i>und wer die Daten kontrolliert, kontrolliert die Zukunft"</i>
 
-167
+170
 00:06:47,450 --> 00:06:48,180
 <i>Wir verlieren Sie.</i>
 
-168
+171
 00:06:48,180 --> 00:06:49,880
 <i>Ich hinterlasse ihnen ein Werkzeug, zum...</i>
 
-169
+172
 00:06:49,880 --> 00:06:50,410
 <i>Eine Zwiebel?</i>
 
-170
+173
 00:06:50,410 --> 00:06:52,410
 <i>Seien Sie nicht töricht, Robert, das ist nur ein Vergleich</i>
 
-171
+174
 00:06:52,410 --> 00:06:53,650
 <i>Sie steht für "Tor" - Tor?</i>
 
-172
+175
 00:06:53,650 --> 00:06:55,220
 <i>Googlen Sie es! Es steht für Anonymität</i>
 
-173
+176
 00:06:55,220 --> 00:06:57,980
 <i>Dieses offene Zwiebel-Router-Netzwerk hilft wesentlich gegen Tyrannei</i>
 
-174
+177
 00:06:57,980 --> 00:07:00,920
 <i>aber seine Fähigkeiten wirken nur, wenn ihr Ar***löcher es konsequent benutzt</i>
 
-175
+178
 00:07:00,920 --> 00:07:03,540
 <i>und selbst wenn ihr es nicht benutzt, betreibt es, damit seine Macht wächst</i>
 
-176
+179
 00:07:03,540 --> 00:07:04,570
 <i>Danke, Herr Orwell</i>
 
-177
+180
 00:07:04,580 --> 00:07:06,740
 <i>Nennen Sie mich von jetzt an George Torwell</i>
 
-178
+181
 00:07:06,740 --> 00:07:08,770
 <i>Hätten wir solche Werkzeuge gehabt, als ich das hier geschrieben hab, nun</i>
 
-179
+182
 00:07:08,770 --> 00:07:12,250
 <i>es wäre viel einfachen gewesen Big Brother zu sagen, dass er sich fi**en soll</i>
 
-180
+183
 00:07:12,250 --> 00:07:14,250
 zum Beispiel, wer hier ist Biologe?
 
-181
+184
 00:07:15,550 --> 00:07:17,250
 Hebt eure Hände wenn ihr Biologen seid
 
-182
+185
 00:07:17,250 --> 00:07:19,550
 Niemand? Kein einziger?  Super, da ist jemand
 
-183
+186
 00:07:19,550 --> 00:07:20,800
 Eine Person, super.
 
-184
+187
 00:07:20,800 --> 00:07:24,370
 Jetzt hebt eure Hände, wenn ihr glaubt in der Lage zu sein
 
-185
+188
 00:07:24,370 --> 00:07:26,920
 euer Risiko mit sicherem Sex zu senken
 
-186
+189
 00:07:26,920 --> 00:07:29,850
 im Sinne von, Gefahren zu senken, die von Sex ausgehen
 
-187
+190
 00:07:29,850 --> 00:07:32,810
 Wer hier hat jemals ein Kondom richtig benutzt?
 
-188
+191
 00:07:34,030 --> 00:07:35,400
 Ok, ihr braucht euch nicht schämen.
 
-189
+192
 00:07:36,420 --> 00:07:38,030
 Das solltet ihr! Ihr solltet euch schämen...
 
-190
+193
 00:07:38,060 --> 00:07:40,130
 Insbesondere die Leute, die nicht ihre Hand gehoben haben.
 
-191
+194
 00:07:41,140 --> 00:07:42,830
 Das ist eigenartig.
 
-192
+195
 00:07:42,830 --> 00:07:44,460
 Ich weiß wirklich nicht, was ich euch sagen soll.
 
-193
+196
 00:07:44,460 --> 00:07:46,500
 Aber die Leute, die ihre Hand gehoben haben, ihr werdet...
 
-194
+197
 00:07:46,500 --> 00:07:48,670
 Wir haben ein sehr unschuldiges Publikum, das ist alles.
 
-195
+198
 00:07:48,700 --> 00:07:51,530
 Hast du deine Hand beide Male gehoben, Biologe?
 
-196
+199
 00:07:52,090 --> 00:07:53,470
 Ok, gut, gut!
 
-197
+200
 00:07:53,470 --> 00:07:55,880
 Wir wissen, dass sich hieraus etwas lernen lässt
 
-198
+201
 00:07:55,880 --> 00:07:58,820
 dass der Biologe sowohl versteht, wie er sich selbst schützen kann
 
-199
+202
 00:07:58,820 --> 00:08:03,230
 und er versteht auch im technischen, im wissenschaftlichen Sinne
 
-200
+203
 00:08:03,230 --> 00:08:06,250
 wogegen er sich schützt, und so weiter.
 
-201
+204
 00:08:06,250 --> 00:08:08,250
 Und alle anderen, die ihre Hand gehoben haben,
 
-202
+205
 00:08:08,460 --> 00:08:10,060
 geben sich nicht als Experten aus
 
-203
+206
 00:08:10,060 --> 00:08:14,210
 und dennoch habt ihr vermutlich tollen Sex, auf geschützte Weise, die euer Risiko reduziert.
 
-204
+207
 00:08:14,430 --> 00:08:18,170
-Wir sollten in der Lage sein, das mit Kryotography zu erreichen, mit Verschlüsselung.
+Wir sollten in der Lage sein, das mit Krypotografie zu erreichen, mit Verschlüsselung.
 
-205
+208
 00:08:18,180 --> 00:08:21,200
 Wir sollten verstehen, dass wir eine Überwachungsepedemie haben,
 
-206
+209
 00:08:21,200 --> 00:08:27,620
 dass wir Strategien trainieren müssen, die Schäden reduzieren mit kulturellen Normen die das begünstigen.
 
-207
+210
 00:08:27,660 --> 00:08:30,670
-Wenn du micht kontaktiertst, musst du es sicher machen!
+Wenn du dich mit mir verbinden willst, musst du es sicher machen!
 
-208
+211
 00:08:30,670 --> 00:08:33,850
 <i>Du bist das Licht, das die Welt verlangt.</i>
 
-209
+212
 00:08:33,850 --> 00:08:38,580
 <i>Mach es hell und mach es klar, oh, woah</i>
 
-210
+213
 00:08:42,130 --> 00:08:45,290
 <i>Wir werden nicht im Dunkeln sitzen</i>
 
-211
+214
 00:08:45,290 --> 00:08:50,220
 <i>Wir werden nicht in Angst leben, oh, woah</i>
 
-212
+215
 00:08:58,170 --> 00:08:59,840
 Nichts zu verbergen?
 
-213
+216
 00:09:01,680 --> 00:09:03,440
 <i>Geheimdienste gegen uns, die Bevölkerung</i>
 
-214
+217
 00:09:03,440 --> 00:09:05,470
-<i>Nicht beugen, nicht kriechen vor den da oben, der Regierung</>
+<i>Nicht beugen, nicht kriechen vor den da oben, der Regierung</i>
 
-215
+218
 00:09:05,470 --> 00:09:07,460
 <i>Wir können alle bewegen eine neue Entscheidung zu treffen</i>
 
-216
+219
 00:09:07,460 --> 00:09:10,050
 <i>wir schaffen eine Bewegung, jeder erhebt seine Stimme</i>
 
-217
+220
 00:09:15,650 --> 00:09:18,050
 <i>Bildet eine Bewegung indem ihr eure Stimme erhebt</i>
 
-218
+221
 00:09:23,570 --> 00:09:25,850
 <i>Bildet eine Bewegung indem ihr eure Stimme erhebt</i>
 
-219
+222
 00:09:27,980 --> 00:09:28,590
 Verschlüsseln.
 
-220
+223
 00:09:29,360 --> 00:09:29,940
-Jetzt.
+Sofort.
+
