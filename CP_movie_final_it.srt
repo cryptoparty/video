@@ -361,7 +361,7 @@ e vantaggioso per raggiungere questi fini
 
 91
 00:03:14,210 --> 00:03:18,280
-<i>Tra poco avremo fatto fuori tutte le talpe</i>FIXME
+<i>Tra poco avremo fatto fuori tutte le talpe</i>
 
 92
 00:03:18,750 --> 00:03:21,010
@@ -589,7 +589,7 @@ che sono criminali per natura
 
 148
 00:06:13,290 --> 00:06:15,660
-<i>Svelto, attiva il sistema di teletrasporto</i>FIXME
+<i>Svelto, attiva il sistema di teletrasporto</i>
 
 149
 00:06:16,380 --> 00:06:19,020
@@ -721,7 +721,7 @@ Per esempio, ci sono dei biologi qui?
 
 181
 00:07:15,550 --> 00:07:17,250
-Alzate la mano se siete un biologo
+Alzate la mano se siete biologi
 
 182
 00:07:17,250 --> 00:07:19,550
@@ -777,7 +777,7 @@ Ma le persone che hanno alzato la mano, voi...
 
 195
 00:07:48,700 --> 00:07:51,530
-Hai alzato la mano entrambe le volte, biologo?
+La persona esperta di biologia, hai alzato la mano entrambe le volte?
 
 196
 00:07:52,090 --> 00:07:53,470
@@ -789,7 +789,7 @@ C'è una lezione da imparare qui
 
 198
 00:07:55,880 --> 00:07:58,820
-il biologo capisce sia come proteggersi
+Chi ha studiato biologia capisce sia come proteggersi
 
 199
 00:07:58,820 --> 00:08:03,230
